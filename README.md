@@ -39,12 +39,14 @@ We are currently working on showcasing Smithonia through engaging media! Screens
 
 
 #### Magical Boxes
-![alt text](AbilityBoxes1.png)
+![alt text](Images/AbilityBoxes1.png)
 
 #### Video Preview
-<video controls src="Images/GameplayPreview.mp4" title="GameplayPreview"></video>
-<video controls src="Images/AbilityBoxes.mp4" title="AbilityBoxes"></video>
-<video controls src="Images/LevelDesign.mp4" title="LevelDesign"></video>
+https://github.com/Gilderko/SmithoniaPresentation/blob/main/Videos/AbilityBoxes1.mp4
+
+https://github.com/Gilderko/SmithoniaPresentation/blob/main/Videos/GameplayPreview.mp4
+
+https://github.com/Gilderko/SmithoniaPresentation/blob/main/Videos/LevelDesign.mp4
 
 ---
 
