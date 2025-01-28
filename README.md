@@ -42,11 +42,10 @@ We are currently working on showcasing Smithonia through engaging media! Screens
 ![alt text](Images/AbilityBoxes1.png)
 
 #### Video Preview
-https://github.com/Gilderko/SmithoniaPresentation/blob/main/Videos/AbilityBoxes1.mp4
 
-https://github.com/Gilderko/SmithoniaPresentation/blob/main/Videos/GameplayPreview.mp4
+https://github.com/user-attachments/assets/a8b63fd8-1784-4e34-9163-978c4a91d2fa
 
-https://github.com/Gilderko/SmithoniaPresentation/blob/main/Videos/LevelDesign.mp4
+https://github.com/user-attachments/assets/0461990e-bc10-4f1b-88f6-41c3350efcbb
 
 ---
 
